@@ -17,5 +17,3 @@ DELETE /user/:id
 ### pour créer une liaison (Many-To-Many):
 
 POST /usersociety { UserId, SocietyId }
-
-Créer, modifier ou supprimer une société ou un utilisateur aura un effet de cascade
